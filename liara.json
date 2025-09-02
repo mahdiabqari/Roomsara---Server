@@ -1,0 +1,10 @@
+{
+  "app": "roomsaraservernet",
+  "port": 3000,
+  "mounts": [
+    {
+      "source": "storage",
+      "target": "/uploads"
+    }
+  ]
+}
